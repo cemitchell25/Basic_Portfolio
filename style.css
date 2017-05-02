@@ -73,6 +73,87 @@
 
 }
 
+#portfolio {
+	width: 560px;
+	height: 720px;
+	background-color: #ffffff;
+	float: left;
+	margin-left: 75px;
+	font-family: arial;
+	margin-top: 50px;
+	padding: 20px;
+	border-width: 1px;
+	border-color: #dddddd;
+	border-style: solid;
+	color: #999999;
+	display: inline-block;
+}
+
+#contact {
+	width: 560px;
+	height: 720px;
+	background-color: #ffffff;
+	float: left;
+	margin-left: 75px;
+	margin-top: 50px;
+	padding: 20px;
+	border-width: 1px;
+	border-color: #dddddd;
+	border-style: solid;
+	color: #999999;
+	display: inline-block;
+	font-family: arial;
+
+}
+
+#container {
+	border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    }
+
+.portpics {
+	margin: 15px;
+	float:left;
+	position: relative;
+	z-index:1;
+}
+
+.h3 {
+	position: absolute;
+	float: left;
+	height:35px;
+	width: 250px;
+	background-color: #4aaaa5;
+	top: 100px;
+	left: 0px;
+	text-align: center;
+	padding-top: 10px;
+	color: #ffffff;
+	z-index:5;
+	font-family: Times;
+	font-size: 20px;
+}
+
 #connect {
 	width: 225px;
 	height: 150px;
