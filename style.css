@@ -2,7 +2,7 @@
 
 #body {
 	width: 960px;
-	background-image: url('../Basic_Portfolio/assets/images/topography.png');
+	background-image: url(../Basic_Portfolio/assets/images/topography.png);
 	background-attachment: fixed;
 }
 
